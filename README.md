@@ -1,0 +1,2 @@
+# EthBOT
+Eth Trading Bot
